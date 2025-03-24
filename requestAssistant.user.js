@@ -8,8 +8,8 @@
 // @homepage        https://github.com/tomnishambles/SWCombine-Scripts
 // @homepageURL     https://github.com/tomnishambles/SWCombine-Scripts
 // @icon            https://www.swcombine.com/favicon.ico
-// @updateURL       x
-// @downloadURL     x
+// @updateURL       https://github.com/tomnishambles/SWCombine-Scripts/raw/main/requestAssistant.user.js
+// @downloadURL     https://github.com/tomnishambles/SWCombine-Scripts/raw/main/requestAssistant.user.js
 // @supportURL      https://github.com/tomnishambles/SWCombine-Scripts/
 // ==/UserScript==
 
